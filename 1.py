@@ -1,7 +1,4 @@
 a=40;
 
 # i went back to change one
-# i edited in master and dev
-
-#happy github
-
+# i had some work for my boss

@@ -1,3 +1,3 @@
-a=50;
-b-30;
-c=22;
+a=40;
+
+# i went back to change one
